@@ -1,1 +1,9 @@
 # ELECTRIC---VEHICLE_TABLEAU-DASHBOARD
+
+🚗 Electric Vehicle Data Analysis Dashboard
+📌 Project Overview
+
+This project focuses on analyzing Electric Vehicle (EV) adoption trends using interactive data visualization.
+The dashboard provides insights into vehicle types, manufacturers, model years, electric range, and state-wise distribution of electric vehicles.
+
+The goal of this project is to understand EV growth patterns and practice data analysis & dashboarding skills using real-world datasets.
