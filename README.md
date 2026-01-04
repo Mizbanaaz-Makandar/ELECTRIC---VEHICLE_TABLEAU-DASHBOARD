@@ -7,3 +7,17 @@ This project focuses on analyzing Electric Vehicle (EV) adoption trends using in
 The dashboard provides insights into vehicle types, manufacturers, model years, electric range, and state-wise distribution of electric vehicles.
 
 The goal of this project is to understand EV growth patterns and practice data analysis & dashboarding skills using real-world datasets.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+🎯 Objectives
+
+Analyze total electric vehicle registrations
+
+Compare BEV (Battery Electric Vehicles) and PHEV (Plug-in Hybrid Electric Vehicles)
+
+Identify top manufacturers and popular EV models
+
+Study EV adoption trends over different model years
+
+Visualize state-wise distribution of electric vehicles
