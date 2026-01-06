@@ -43,3 +43,51 @@ Top EV Models by total vehicles
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🛠 Tools & Technologies Used
+
+Data Visualization Tool: Power BI
+
+Data Processing: Excel
+
+Dataset Type: Electric Vehicle registration data
+
+Visualization Techniques:
+
+KPI Cards
+
+Line Charts
+
+Bar Charts
+
+Donut Charts
+
+Geographic Map
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📂 Dataset Description
+
+The dataset contains information such as:
+
+Vehicle make and model
+
+Model year
+
+EV type (BEV / PHEVs
+
+Electric range
+
+CAFV eligibility
+
+State-wise vehicle registration
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📈 Key Learnings
+
+Hands-on experience with data cleaning and transformation
+
+Building interactive dashboards for business insights
+
+Understanding EV market trends and adoption patterns
+
+Improving analytical thinking and storytelling using data
+
