@@ -91,3 +91,11 @@ Understanding EV market trends and adoption patterns
 
 Improving analytical thinking and storytelling using data
 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## SCREENSHOT
+
+<img width="1089" height="615" alt="image" src="https://github.com/user-attachments/assets/873c2354-74b3-4c4d-8dd7-890a70d265c8" />
+
+
